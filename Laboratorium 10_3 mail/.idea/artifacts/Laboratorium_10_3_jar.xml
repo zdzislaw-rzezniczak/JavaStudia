@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Laboratorium 10_3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laboratorium_10_3_jar</output-path>
+    <root id="archive" name="Laboratorium 10_3.jar">
+      <element id="module-output" name="Laboratorium 10_3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.mail.glassfish-1.4.1.v201005082020.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.activation-1.1.0.v201105071233.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Program Files (x86)/Java mail/javax.mail-1.6.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

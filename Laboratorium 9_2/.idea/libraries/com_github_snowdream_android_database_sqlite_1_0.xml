@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.github.snowdream.android.database:sqlite:1.0" type="repository">
+    <properties maven-id="com.github.snowdream.android.database:sqlite:1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/greendao-generator-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ormlite-android-4.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ormlite-core-4.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/greendao-1.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
